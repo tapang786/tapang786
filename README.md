@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tapan Ghosh [@tapang786] Full stack Developer
+- 👋 Hi, I’m Tapan Ghosh a Full-Stack Developer
 - 👀 I’m Working in Wordpress/Laravel/VueJs + Flutter
 
 <!---
