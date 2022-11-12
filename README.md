@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @tapang786
-- 👀 I’m Working in Wordpress/Laravel/VueJs
+- 👋 Hi, I’m Tapan Ghosh [@tapang786] Full stack Developer
+- 👀 I’m Working in Wordpress/Laravel/VueJs + Flutter
 
 <!---
 tapang786/tapang786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
